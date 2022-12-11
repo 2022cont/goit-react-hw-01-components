@@ -1,0 +1,30 @@
+.avatar {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+
+.name,
+.tag,
+.location {
+    margin: 20px;
+    text-align: center;
+}
+
+.tag,
+.location {
+    color: grey;
+}
+
+.name {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.tag {
+    font-size: 40px;
+}
+
+.location {
+    font-weight: bolder;
+}
